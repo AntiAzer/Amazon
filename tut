@@ -1,0 +1,9 @@
+TUT:
+
+1: install zmap
+2: edit lol.py to your net infomation
+3: chmod 777 *
+4: screen ./zmap
+5: screen ./load
+6: screen ./updates
+7: now wait and bots should join if you have done everything correct, just leave it running!!
